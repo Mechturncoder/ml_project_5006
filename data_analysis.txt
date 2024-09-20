@@ -1,0 +1,2 @@
+Initiating data collection for the machine learning
+Data pre-processing is crucial for accurate model 
